@@ -129,9 +129,7 @@ div.required .control-label:before {
 	margin: 0 0 10px 0;
 }
 #logo h1 {
-	font-size: 28px;
-	margin-bottom: 20px;
-	margin-top: -5px;
+  margin-top: -10px;
 }
 /* search */
 #search {
@@ -578,10 +576,6 @@ html[dir=rtl] .breadcrumb > li::after {
 .product-thumb .caption {
 	padding: 0 20px;
 	min-height: 180px;
-}
-.product-thumb .caption > h4 + p {
-	height: 70px;
-	overflow: hidden;
 }
 .product-list .product-thumb .caption {
 	margin-left: 230px;
